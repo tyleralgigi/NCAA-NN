@@ -9,4 +9,3 @@ requests==2.22.0
 urllib3==1.25.3
 pathlib==1.0.1
 progressbar2==3.47.0 
-python-utils==2.3.0
