@@ -9,25 +9,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+First clone repository either using git clone or downloading zip:
 ```
-Give the example
+git clone https://github.com/tyleralgigi/ALBURT_AI.git
 ```
 
-And repeat
-
+After downloading use pip to install required libraries: 
 ```
-until finished
+pip3 install -r requirements.txt 
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+Then once all required libraries are installed, run main.py to collect up to date data: 
+```
+pip3 main.py
+```
 
 ### Break down into end to end tests
 
@@ -36,15 +30,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Built With
 
 * [Keras](http://https://keras.io/) - high-level neural networks API
