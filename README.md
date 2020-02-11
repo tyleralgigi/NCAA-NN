@@ -27,7 +27,7 @@ pip3 main.py
 
 The neural network will be run 16 times and give a average final score prediction in gamePrediction.csv
 ```
-python3 ml.py
+python ml.py
 ```
 
 ## Built With
