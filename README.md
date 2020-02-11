@@ -19,8 +19,9 @@ After downloading use pip to install required libraries:
 pip3 install -r requirements.txt 
 ```
 Then once all required libraries are installed, run main.py to collect up to date data: 
+*Make sure you have python verizon 3 or greater*
 ```
-pip3 main.py
+pip main.py
 ```
 
 ### Run AI
