@@ -5,7 +5,9 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See Installing and Run AI on how to get started with running this project on your own machine.
+
+*This project does use Keras API running the CPU version of Tensorflow. If you want this project to comply in a timely manner please make sure you system is able to handle the calculations and examples per second.
 
 ### Installing
 
