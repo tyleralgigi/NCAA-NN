@@ -30,7 +30,7 @@ predictionNames = []
 todayData = []
 data = []
 allScores = []
-num = 1
+num = 16
 zscores = []
 #function to plot dataset
 def plot(history):
