@@ -1,13 +1,11 @@
 # ALBURT AI
 ## version 1.0.0
 
-  Welcome to my first AI project in python. This project is used to predict National Collegiate Athletic Association (NCAA) mens basketball scores. My reasoning for developing this project was to be able to compare my predictions to more known big name company predictions like ESPN, OddSharks,CBSSports, etc. This is a completed project and one that I will mostly likely be leaving in its current state.
+  Welcome to my first AI project in python. This project is used to predict National Collegiate Athletic Association (NCAA) mens basketball scores. My reasoning for developing this project was to be able to compare my predictions to more known big name company predictions like ESPN, OddSharks,CBSSports, etc.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See Installing and Run AI on how to get started with running this project on your own machine.
-
-*This project uses Keras API running the CPU version of Tensorflow. If you want this project to comply in a timely manner please make sure you system is able to handle the calculations and examples per second.*
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Installing
 
@@ -21,17 +19,15 @@ After downloading use pip to install required libraries:
 pip3 install -r requirements.txt 
 ```
 Then once all required libraries are installed, run main.py to collect up to date data: 
-
-*Make sure you have python version 3 or greater*
 ```
-python main.py
+pip3 main.py
 ```
 
 ### Run AI
 
-The neural network will be run 16 times and give a average final score prediction in gamePicks.csv
+The neural network will be run 16 times and give a average final score prediction in gamePrediction.csv
 ```
-python ml.py
+python3 ml.py
 ```
 
 ## Built With
