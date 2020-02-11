@@ -86,9 +86,9 @@ def scheduleStart(path):
                 if game[25] == 0:
                     game[25] = awayATS[i]
     df = pd.DataFrame(schedules)
-    df = df.drop([df.columns[2615] , df.columns[3271]], axis=0)
+    df = df.drop(2615)
+    df = df.drop(3271)
     labels = df.loc[:, [1,3]]
     df = df.drop([df.columns[0] , df.columns[1], df.columns[2], df.columns[3]] ,  axis='columns')
     df.to_csv(str(path) + '/csv/scheduleTest.csv', float_format='%.2f', na_rep="NaN")
     labels.to_csv(str(path) + '/csv/labels.csv', float_format='%.2f', na_rep="NaN")
-
