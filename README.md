@@ -29,7 +29,7 @@ python main.py
 
 ### Run AI
 
-The neural network will be run 16 times and give a average final score prediction in gamePrediction.csv
+The neural network will be run 16 times and give a average final score prediction in gamePicks.csv
 ```
 python ml.py
 ```
