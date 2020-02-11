@@ -23,13 +23,13 @@ Then once all required libraries are installed, run main.py to collect up to dat
 pip3 main.py
 ```
 
-### Break down into end to end tests
+### Run AI
 
-Explain what these tests test and why
+The neural network will be run 16 times and give a average final score prediction in gamePrediction.csv
+```
+python3 ml.py
+```
 
-```
-Give an example
-```
 ## Built With
 
 * [Keras](http://https://keras.io/) - high-level neural networks API
