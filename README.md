@@ -22,7 +22,7 @@ Then once all required libraries are installed, run main.py to collect up to dat
 
 *Make sure you have python version 3 or greater*
 ```
-pip main.py
+python main.py
 ```
 
 ### Run AI
