@@ -92,5 +92,3 @@ def scheduleStart(path):
     df.to_csv(str(path) + '/csv/scheduleTest.csv', float_format='%.2f', na_rep="NaN")
     labels.to_csv(str(path) + '/csv/labels.csv', float_format='%.2f', na_rep="NaN")
 
-path = pathlib.Path(__file__).parent.absolute()
-scheduleStart(path)
