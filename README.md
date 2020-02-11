@@ -14,9 +14,11 @@ First clone repository by using git clone or downloading the zip:
 git clone https://github.com/tyleralgigi/ALBURT_AI.git
 ```
 
+*Please make sure you have python 3 or greater installed before continuing.*
+
 After downloading use pip to install required libraries: 
 ```
-pip3 install -r requirements.txt 
+pip install -r requirements.txt 
 ```
 Then once all required libraries are installed, run main.py to collect up to date data: 
 ```
