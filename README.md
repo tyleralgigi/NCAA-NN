@@ -1,4 +1,8 @@
 # ALBURT AI
+
+no longer being updated
+working as of June 2020
+
 ## version 1.0.0
 
   Welcome to my first AI project in python. This project is used to predict National Collegiate Athletic Association (NCAA) mens basketball scores. My reasoning for developing this project was to be able to compare my predictions to more known big name company predictions like ESPN, OddSharks,CBSSports, etc. This project is complete and I will most likely not be returning to it.
