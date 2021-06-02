@@ -6,6 +6,6 @@ keras==2.3.1
 matplotlib==3.1.1
 beautifulsoup4==4.8.0
 requests==2.22.0
-urllib3==1.25.3
+urllib3==1.26.5
 pathlib==1.0.1
 progressbar2==3.47.0 
