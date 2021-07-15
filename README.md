@@ -1,4 +1,4 @@
-# ALBURT AI
+# NCAA Neural Network
 
 no longer being updated
 working as of June 2020
